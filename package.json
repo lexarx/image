@@ -1,5 +1,9 @@
 {
   "name": "image",
   "version": "1.0.0",
-  "main": "image.js"
+  "main": "image.js",
+  "dependencies": {
+    "event": "github:lexarx/event",
+	"views": "github:lexarx/views"
+  }
 }
